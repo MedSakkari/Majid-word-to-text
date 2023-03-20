@@ -69,4 +69,4 @@ for filename in os.listdir(directory):
         pass
 
 
-print(candidat)
+# print(candidat)
